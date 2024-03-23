@@ -5,3 +5,5 @@ This tutorial focuses mainly on git and using github as its remote repo
 
 This repository is built step by step in the tutorial.
 This line added with github editor.
+
+This line updates README.md for git push branch tutorial.
